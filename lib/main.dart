@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Expense Planner',
       theme: ThemeData(
-        primaryColor: Colors.purple[200],
+        primaryColor: Colors.purple,
         accentColor: Colors.pink,
         fontFamily: 'QuickSand',
         textTheme: ThemeData.light().textTheme.copyWith(
